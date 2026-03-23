@@ -1,8 +1,8 @@
 class Harnest < Formula
   desc "Composable Claude Code agent team harness"
   homepage "https://github.com/gioperalto/harnest"
-  url "https://github.com/gioperalto/harnest/archive/refs/tags/v1.1.6.tar.gz"
-  sha256 "070673741ecd0373a8744c814e52c0592f789ceba1888ad811d2d8d4f875ef1a"
+  url "https://github.com/gioperalto/harnest/archive/refs/tags/v1.1.7.tar.gz"
+  sha256 "171b326179fd51c859911110fc33413de2e7c63abce4004ba9f9dc59cd208520"
   license "MIT"
 
   def install
